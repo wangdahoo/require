@@ -1,0 +1,18 @@
+{
+  "name": "qianka v3 requirejs",
+  "version": "2.1.22",
+  "authors": [
+    "ye.jun@qianka.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "2.1.22"
+  }
+}

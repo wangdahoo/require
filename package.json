@@ -1,0 +1,20 @@
+{
+  "name": "qianka-require",
+  "version": "2.1.22",
+  "description": "钱咖v3 requirejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.corp.qianka.com:ye.jun/require.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-uglify": "^0.11.0"
+  }
+}
