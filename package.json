@@ -1,6 +1,6 @@
 {
   "name": "qianka-require",
-  "version": "2.1.22",
+  "version": "1.0.0",
   "description": "钱咖v3 requirejs",
   "main": "index.js",
   "scripts": {

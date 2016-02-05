@@ -7,7 +7,10 @@ module.exports = function(grunt) {
                 banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
             },
             build: {
-                src: 'bower_components/requirejs/require.js',
+                src: [
+                    'bower_components/requirejs/require.js',
+                    'bower_components/require-css/css.js'
+                ],
                 dest: '<%= pkg.version %>/require.min.js'
             }
         },

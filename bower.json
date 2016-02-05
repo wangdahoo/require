@@ -1,6 +1,6 @@
 {
   "name": "qianka v3 requirejs",
-  "version": "2.1.22",
+  "version": "1.0.0",
   "authors": [
     "ye.jun@qianka.com"
   ],
@@ -13,6 +13,7 @@
     "tests"
   ],
   "devDependencies": {
-    "requirejs": "2.1.22"
+    "requirejs": "2.1.22",
+    "require-css": "0.1.8"
   }
 }
